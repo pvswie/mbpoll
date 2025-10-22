@@ -91,6 +91,7 @@ For example to query a debian system:
 * Generate Makefile with cmake:
 
         $ sudo apt-get install cmake pkg-config
+        $ git clone https://github.com/epsilonrt/mbpoll
         $ cd mbpoll
         $ mkdir build
         $ cd build
@@ -237,3 +238,4 @@ GNU General Public License for more details.
 
 > You should have received a copy of the GNU General Public License
 along with mbpoll. If not, see <http://www.gnu.org/licenses/>.
+
